@@ -25,7 +25,7 @@ public abstract class Operator {
     /**
      * default operator priority
      */
-    private static final int DEFAULT_PRIORITY = 10;
+    protected static final int DEFAULT_PRIORITY = 10;
 
     /**
      * Symbol string
